@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 동네 식당 데이터 분류하기
 
 ## 개요
@@ -50,7 +49,3 @@ df.run_decision_tree_classifier(["menu", "peyong"], "popularity")
 df.run_logistic_regression(["menu", "peyong"], "popularity")
 df.run_neighbor_classifier(["menu", "peyong"], "popularity", 5)
 ```
-
-=======
-# restaurant_classification
->>>>>>> 7dc8c6879ae0fd42bf06fa547b305e76cef99a67
